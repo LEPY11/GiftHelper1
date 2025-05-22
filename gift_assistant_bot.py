@@ -75,7 +75,7 @@ def generate_gift_ideas(update: Update, context: CallbackContext) -> None:
 # Main function to start the bot
 def main() -> None:
     # Replace 'YOUR_TOKEN_HERE' with your actual bot token
-    updater = Updater("YOUR_TOKEN_HERE")
+    updater = Updater("8105830161:AAHhAvOa3OegaiO6MRV4duJR8pbAFz0RRww")
 
     dispatcher = updater.dispatcher
 
